@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**MokhtarAkle/MokhtarAkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mokhtar
+## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Mokhtar. I am an 23 year old frontend developer living in Amsterdam. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+>Does not include forked repositories
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MokhtarAkle&theme=tokyonight\&include_all_commits=true)
+
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,svelte&perline=6)](https://skillicons.dev)
+
+
+💻 Frontend Developer
