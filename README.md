@@ -7,7 +7,7 @@ My name is Mokhtar. I am an 23 year old frontend developer living in Amsterdam.
 ## Stats
 >Does not include forked repositories
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MokhtarAkle\&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MokhtarAkle&theme=tokyonight\&include_all_commits=true)
 
 
 ## Skills
